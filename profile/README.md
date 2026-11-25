@@ -37,8 +37,8 @@ OPEN Chicago brings together entrepreneurs, professionals, and changemakers thro
 | 🤝 **Become a member** | [Membership](https://www.open-chicago.org/members) |
 | 🙋 **Volunteer** | [Volunteer application](https://www.open-chicago.org/volunteer) |
 | 📅 **Attend an event** | [Upcoming events](https://www.open-chicago.org/upcoming-events) |
-| ✉️ **Contact us** | [info@open-chicago.org](mailto:info@open-chicago.org) |
+| ✉️ **Contact us** | [ahsan.rehman@open-chicago.org](mailto:ahsan.rehman@open-chicago.org) |
 
 ## On GitHub
 
-This organization hosts OPEN Chicago's open-source and community tech projects. Interested in contributing? Reach out at [info@open-chicago.org](mailto:info@open-chicago.org).
+This organization hosts OPEN Chicago's open-source and community tech projects. Interested in contributing? Reach out at [ahsan.rehman@open-chicago.org](mailto:ahsan.rehman@open-chicago.org).
